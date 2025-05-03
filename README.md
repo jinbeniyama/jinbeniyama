@@ -1,1 +1,1 @@
-- 👋 Hi, I’m @jinbeniyama
+👋 Hi, I’m Jin Beniyama (@jinbeniyama), a postdoc at Observatoire de la Côte d’Azur (OCA). I have mainly engaged in observations of near-Earth asteroids using Japanese telescope, and I am now studying the thermal properties of asteroids via ThermoPhysical Modeling (TPM).
